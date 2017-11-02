@@ -1,0 +1,12 @@
+language: csharp
+mono: none
+dotnet: 2.0.0
+dist: trusty
+install:
+- dotnet restore
+script:
+- dotnet build
+- dotnet test C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee.csproj
+  only:
+  - master
+  - development
