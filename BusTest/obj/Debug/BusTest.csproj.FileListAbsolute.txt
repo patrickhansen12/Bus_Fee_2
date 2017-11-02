@@ -1,0 +1,13 @@
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\BusTest.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\BusTest.pdb
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\obj\Debug\BusTest.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\obj\Debug\BusTest.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\obj\Debug\BusTest.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\BusTest\obj\Debug\BusTest.pdb

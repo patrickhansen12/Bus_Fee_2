@@ -1,0 +1,11 @@
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\bin\Debug\netcoreapp2.0\Bus_Fee.deps.json
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\bin\Debug\netcoreapp2.0\Bus_Fee.runtimeconfig.json
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\bin\Debug\netcoreapp2.0\Bus_Fee.runtimeconfig.dev.json
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\bin\Debug\netcoreapp2.0\Bus_Fee.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\bin\Debug\netcoreapp2.0\Bus_Fee.pdb
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\obj\Debug\netcoreapp2.0\Bus_Fee.csprojResolveAssemblyReference.cache
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\obj\Debug\netcoreapp2.0\Bus_Fee.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\obj\Debug\netcoreapp2.0\Bus_Fee.AssemblyInfoInputs.cache
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\obj\Debug\netcoreapp2.0\Bus_Fee.AssemblyInfo.cs
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\obj\Debug\netcoreapp2.0\Bus_Fee.dll
+C:\Users\patrick\Documents\Visual Studio 2017\Projects\Bus_Fee\Bus_Fee\obj\Debug\netcoreapp2.0\Bus_Fee.pdb

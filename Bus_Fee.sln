@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bus_Fee", "Bus_Fee\Bus_Fee.csproj", "{B24AF387-64D5-4481-9590-E27748F4C1F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTest", "BusTest\BusTest.csproj", "{2041DFF7-69AC-45E5-B248-2D1C55BF2F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24AF387-64D5-4481-9590-E27748F4C1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24AF387-64D5-4481-9590-E27748F4C1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24AF387-64D5-4481-9590-E27748F4C1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24AF387-64D5-4481-9590-E27748F4C1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2041DFF7-69AC-45E5-B248-2D1C55BF2F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2041DFF7-69AC-45E5-B248-2D1C55BF2F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2041DFF7-69AC-45E5-B248-2D1C55BF2F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2041DFF7-69AC-45E5-B248-2D1C55BF2F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD82832-164F-42D5-9FDC-4A9CA936C84A}
+	EndGlobalSection
+EndGlobal
